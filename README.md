@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am learning Git and GitHub.
+
 
 <!--
 **will2849/will2849** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

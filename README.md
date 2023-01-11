@@ -1,5 +1,8 @@
 ### Hi there 👋
-I am learning Git and GitHub.
+
+I write documents for a living. ✍
+
+I am currently learning Git and GitHub.
 
 
 <!--

@@ -3,8 +3,6 @@
 I write documents for a living. ✍
 
 I am currently learning Git and GitHub.
-
-Added line of text.
 <!--
 **will2849/will2849** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

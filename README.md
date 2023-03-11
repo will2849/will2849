@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I am currently learning Git and GitHub.
+I am currently learning Git and GitHub. 💻
